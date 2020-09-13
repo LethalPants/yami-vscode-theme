@@ -2,11 +2,11 @@
     "name": "yami-theme",
     "displayName": "Yami Theme",
     "description": "Dark theme inspired by the Oceanic Next and Night Owl theme.",
-    "publisher": "Hatim Murtuza",
+    "publisher": "HatimMurtuza",
     "author": {
         "name": "Hatim Murtuza"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.47.0"
     },
