@@ -734,7 +734,7 @@
 			"name": "Operator, Misc JSX",
 			"scope": [
 				"meta.tag.js.jsx",
-				"meta.tag.js.tsx"
+				"meta.jsx.children.tsx"
 			],
 			"settings": {
 				"foreground": "#d4d4d4"
