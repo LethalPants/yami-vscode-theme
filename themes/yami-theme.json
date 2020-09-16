@@ -134,7 +134,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#ff3333"
+				"foreground": "#ff3333",
+				"fontStyle": "underline"
 			}
 		},
 		{
@@ -145,18 +146,19 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#af8bf3"
+				"foreground": "#af8bf3",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
-				"punctuation",
 				"meta.tag"
 			],
 			"settings": {
-				"foreground": "#af8bf3"
+				"foreground": "#af8bf3",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -167,7 +169,8 @@
 				"punctuation.definition.parameters",
 				"punctuation.definition.separator",
 				"punctuation.definition.separator",
-				"punctuation.definition.array"
+				"punctuation.definition.array",
+				"punctuation"
 			],
 			"settings": {
 				"foreground": "#3DC0E1"
@@ -226,7 +229,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#FF427E"
+				"foreground": "#FF427E",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -371,7 +375,6 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#ED4637"
 			}
 		},
@@ -734,10 +737,12 @@
 			"name": "Operator, Misc JSX",
 			"scope": [
 				"meta.tag.js.jsx",
-				"meta.jsx.children.tsx"
+				"meta.jsx.children.tsx",
+				"meta.jsx.children.js.jsx"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#d4d4d4",
+				"fontStyle": ""
 			}
 		}
 	]
