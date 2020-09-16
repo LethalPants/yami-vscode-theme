@@ -154,6 +154,7 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
+				"punctuation",
 				"meta.tag"
 			],
 			"settings": {
@@ -169,8 +170,7 @@
 				"punctuation.definition.parameters",
 				"punctuation.definition.separator",
 				"punctuation.definition.separator",
-				"punctuation.definition.array",
-				"punctuation"
+				"punctuation.definition.array"
 			],
 			"settings": {
 				"foreground": "#3DC0E1"
@@ -260,7 +260,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#B9E453"
+				"foreground": "#B9E453",
+				"fontStyle": "italic"
 			}
 		},
 		{
