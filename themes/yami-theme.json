@@ -154,8 +154,7 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
-				"punctuation",
-				"meta.tag"
+				"punctuation"
 			],
 			"settings": {
 				"foreground": "#af8bf3",
@@ -354,7 +353,8 @@
 			"scope": [
 				"meta.class-method.js entity.name.function.js",
 				"variable.function.constructor",
-				"meta.function-call"
+				"meta.function-call",
+				"meta.tag"
 			],
 			"settings": {
 				"foreground": "#af8bf3"
