@@ -15,10 +15,9 @@
 6. Rate five-stars
 
 ## Font
-The font that you see in the demo is a modified Dank Mono font.
 
+The font that you see in the demo is a modified Dank Mono font.
 
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/Lethalpants/yami-vscode-theme/issues).
-

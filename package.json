@@ -1,15 +1,17 @@
 {
-	"name": "yami-theme",
+	"name": "yami",
 	"displayName": "Yami",
 	"description": "Dark theme inspired by the Oceanic Next and Night Owl theme.",
-	"publisher": "HatimMurtuza",
+	"version": "1.1.0",
 	"author": {
 		"name": "Hatim Murtuza"
 	},
-	"version": "1.1.0",
 	"engines": {
-		"vscode": "^1.47.0"
+		"vscode": "^1.52.0"
 	},
+	"categories": [
+		"Themes"
+	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/LethalPants/yami-vscode-theme"
@@ -22,9 +24,6 @@
 		"theme": "dark"
 	},
 	"icon": "images/icons/logo_250x250.png",
-	"categories": [
-		"Themes"
-	],
 	"keywords": [
 		"Yami",
 		"Yami Theme",
@@ -38,7 +37,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Yami Theme",
+				"label": "Yami",
 				"uiTheme": "vs-dark",
 				"path": "./themes/yami-theme.json"
 			}
