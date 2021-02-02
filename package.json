@@ -1,46 +1,47 @@
 {
-    "name": "yami-theme",
-    "displayName": "Yami Theme",
-    "description": "Dark theme inspired by the Oceanic Next and Night Owl theme.",
-    "publisher": "HatimMurtuza",
-    "author": {
-        "name": "Hatim Murtuza"
-    },
-    "version": "1.1.0",
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/LethalPants/yami-vscode-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/LethalPants/yami-vscode-theme/issues"
-    },
-    "galleryBanner": {
-        "color": "#0a0a10",
-        "theme": "dark"
-    },
-    "icon": "images/icons/logo_250x250.png",
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "Yami Theme",
-        "Dark Theme",
-        "Oceanic Next",
-        "Night Owl",
-        "one",
-        "theme",
-        "color-theme"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Yami Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/yami-theme.json"
-            }
-        ]
-    }
+	"name": "yami-theme",
+	"displayName": "Yami",
+	"description": "Dark theme inspired by the Oceanic Next and Night Owl theme.",
+	"publisher": "HatimMurtuza",
+	"author": {
+		"name": "Hatim Murtuza"
+	},
+	"version": "1.1.0",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LethalPants/yami-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/LethalPants/yami-vscode-theme/issues"
+	},
+	"galleryBanner": {
+		"color": "#0a0a10",
+		"theme": "dark"
+	},
+	"icon": "images/icons/logo_250x250.png",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Yami",
+		"Yami Theme",
+		"Dark Theme",
+		"Oceanic Next",
+		"Night Owl",
+		"one",
+		"theme",
+		"color-theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Yami Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/yami-theme.json"
+			}
+		]
+	}
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Oceanic Blue",
+	"name": "Yami",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#222236",
@@ -545,9 +545,7 @@
 		},
 		{
 			"name": "Markdown - Blockquote",
-			"scope": [
-				"markup.quote punctuation.definition.blockquote.markdown"
-			],
+			"scope": ["markup.quote punctuation.definition.blockquote.markdown"],
 			"settings": {
 				"foreground": "#828688"
 			}
