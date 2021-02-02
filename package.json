@@ -32,7 +32,10 @@
 		"Night Owl",
 		"one",
 		"theme",
-		"color-theme"
+		"color-theme",
+		"pink",
+		"accessible",
+		"a11y"
 	],
 	"contributes": {
 		"themes": [

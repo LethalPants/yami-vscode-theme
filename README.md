@@ -3,7 +3,9 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/HatimMurtuza.yami-theme.svg?subject=Version&colorA=0a0a10&colorB=FF427E)](https://marketplace.visualstudio.com/items?itemName=HatimMurtuza.yami-theme)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/HatimMurtuza.yami-theme.svg?label=Ratings&colorA=0a0a10&colorB=FF427E)](https://marketplace.visualstudio.com/items?itemName=HatimMurtuza.yami-theme&ssr=false#review-details)
 
-<img  align="center" alt="yami-demo-image" src='https://user-images.githubusercontent.com/48921721/93020011-7787ef00-f5e3-11ea-9107-bf4c7585d1f2.png'/>
+<img  align="center" alt="yami-demo-image" src='https://user-images.githubusercontent.com/48921721/93020011-7787ef00-f5e3-11ea-9107-bf4c7585d1f2.png' style='margin-bottom:15px'/>
+
+<img  align="center" alt="yami-blue-demo-image" src='https://user-images.githubusercontent.com/48921721/106659035-3f437600-65af-11eb-94f4-cd0be5525404.png'/>
 
 ## Installation
 
